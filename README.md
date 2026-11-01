@@ -82,7 +82,7 @@ El notebook 4 requiere además una instalación de **IBM ILOG CPLEX** accesible 
 
 Bryan Mauricio Castañeda Ramos · Centro de Investigación en Matemáticas (CIMAT) · bryan.castaneda@cimat.mx
 
-Joel Antonio Trejo Sánchez (Director) · Centro de Investigación en Matemáticas (CIMAT) · jvelazco@cimat.mx
+Joel Antonio Trejo Sánchez (Director) · Centro de Investigación en Matemáticas (CIMAT) · joel.trejo@cimat.mx
 
-Jonás Velasco Álvarez (Codirector) · Centro de Investigación en Matemáticas (CIMAT) · joel.trejo@cimat.mx
+Jonás Velasco Álvarez (Codirector) · Centro de Investigación en Matemáticas (CIMAT) · jvelasco@cimat.mx
 
